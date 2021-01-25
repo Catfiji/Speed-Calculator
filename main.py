@@ -5,7 +5,9 @@ def Speed(D, T):
 
 # Main
 def main():
-  Speed(100, 2)
+  D = input("Distance: ")
+  T = input("Time: ")
+  Speed(D, T)
 
 # Run
 main()
