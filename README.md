@@ -1,7 +1,7 @@
 ## ⋆⛧┈┈┈┈﹤୨♡୧﹥ ┈┈┈┈⛧⋆
-# Speed Calculator
+# 𝚂𝚙𝚎𝚎𝚍 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛
 
-just simple speed calculators in C and Python
+𝚓𝚞𝚜𝚝 𝚜𝚒𝚖𝚙𝚕𝚎 𝚜𝚙𝚎𝚎𝚍 𝚌𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛𝚜 𝚒𝚗 𝙲 𝚊𝚗𝚍 𝙿𝚢𝚝𝚑𝚘𝚗
 
-Uses the formula, Speed = Distance / Time
+𝚄𝚜𝚎𝚜 𝚝𝚑𝚎 𝚏𝚘𝚛𝚖𝚞𝚕𝚊, 𝚂𝚙𝚎𝚎𝚍 = 𝙳𝚒𝚜𝚝𝚊𝚗𝚌𝚎 / 𝚃𝚒𝚖𝚎
 ## ⋆⛧┈┈┈┈﹤୨♡୧﹥ ┈┈┈┈⛧⋆
