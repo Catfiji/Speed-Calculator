@@ -1,15 +1,21 @@
 #include <stdio.h>
 // intit
-int speed(int D, int T);
-
+void speed(void);
 //main
 int main(void) {
-  speed(100,2);
+  speed();
   return 0;
 }
-
 //main formula
-int speed(int D, int T){
+void speed(void){
+    int D;
+    int T;
+  
+    printf("Distance:\n");
+    scanf ("%d",&D);
+    printf("Time: \n");
+    scanf("%d",&T);
+  
     int answer = D / T;
     printf("%d km/h\n",answer);
 }
